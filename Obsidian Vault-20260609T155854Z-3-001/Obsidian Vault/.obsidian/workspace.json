@@ -1,0 +1,323 @@
+{
+  "main": {
+    "id": "b5e0c7c418e0ebad",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4ee4a1725edc5aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ae0b7cae4b9b0ee",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "My_Obsidian/личное/D&D/Лоръ - востановлено,но нужно улучшить/Карта.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "Карта"
+            }
+          },
+          {
+            "id": "acdcc7599313a746",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My_Obsidian/личное/D&D/Сигилиум.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Сигилиум"
+            }
+          },
+          {
+            "id": "94f116dcf05da7c8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "My_Obsidian/личное/D&D/локации - востановлено,но нужно улучшить/Сапин/Ксайрен/Карта академии.png"
+              },
+              "icon": "lucide-image",
+              "title": "Карта академии"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fec82c513d1858c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "2dc4d1f4b9380abe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e420a144163be46",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4009551e55300b0e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "ba4ffe137443cf8c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "3bd13afff166d0e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b52f21667d054db9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71688bf80563a59e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "obsidian_rep/Клоун/МДК02.01/Полуянович/01.23.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 01.23"
+            }
+          },
+          {
+            "id": "26cafa20ddc3836d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "obsidian_rep/Клоун/Лазарев/3 КУРС/Январь/Drawing 2026-01-31 08.41.30.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Drawing 2026-01-31 08.41.30.excalidraw"
+            }
+          },
+          {
+            "id": "bba295ce10139b35",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "43c1118b2148bd65",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "39f3d8b224bf4f68",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "obsidian_rep/Клоун/МДК02.01/Полуянович/01.23.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 01.23"
+            }
+          },
+          {
+            "id": "c4dacae31277876c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          },
+          {
+            "id": "6b2a98c42e72c251",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "f149a7302ac04bb7",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "obsidian_rep/Клоун/Новосёлова/Задание.excalidraw.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Задание.excalidraw"
+            }
+          },
+          {
+            "id": "90e8d369658d43f6",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "84580cfe82fb5288",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "94f116dcf05da7c8",
+  "lastOpenFiles": [
+    "My_Obsidian/личное/D&D/Сигилиум.md",
+    "My_Obsidian/личное/D&D/локации - востановлено,но нужно улучшить/Сапин/Ксайрен/Карта академии.png",
+    "My_Obsidian/личное/D&D/Лоръ - востановлено,но нужно улучшить/Карта.jpg",
+    "My_Obsidian/личное/D&D/Лоръ - востановлено,но нужно улучшить/Алакрия.jpg",
+    "My_Obsidian/личное/D&D/Лоръ - востановлено,но нужно улучшить/Символ.jpg",
+    "My_Obsidian/личное/D&D/локации - востановлено,но нужно улучшить/Звериные поляны/1f99ea2e624ab1dbd08af2fb4c561f5d.jpg",
+    "My_Obsidian/личное/D&D/локации - востановлено,но нужно улучшить/Элшир/Зестир.jpg",
+    "My_Obsidian/личное/D&D/локации - востановлено,но нужно улучшить/Элшир/священные воды во дворце.jpg",
+    "My_Obsidian/личное/D&D/локации - востановлено,но нужно улучшить/Сапин/Ксайрен/Студены/Аргус Клифор.png",
+    "My_Obsidian/личное/D&D/локации - востановлено,но нужно улучшить/Сапин/Ксайрен/Гроувель.png",
+    "My_Obsidian/личное/D&D/локации - востановлено,но нужно улучшить/Сапин/Ксайрен/Эльфа.png",
+    "My_Obsidian/личное/D&D/локации - востановлено,но нужно улучшить/Сапин/Ксайрен/Фомра.md",
+    "My_Obsidian/личное/D&D/локации - востановлено,но нужно улучшить/Сапин/Ксайрен/Преподы.md",
+    "My_Obsidian/личное/D&D/локации - востановлено,но нужно улучшить/Сапин/Ксайрен/Студены/Дисцип факультет.md",
+    "My_Obsidian/личное/D&D/Персонажи/Внешние боги - востановлен/Тан Саньцзан - Святой Монах.md",
+    "My_Obsidian/личное/D&D/Персонажи/Отчайние - на доработке/Монах.md",
+    "My_Obsidian/личное/D&D/Персонажи/Отчайние - на доработке/Капитан.md",
+    "My_Obsidian/личное/D&D/Персонажи/Отчайние - на доработке/Учёный.md",
+    "My_Obsidian/личное/D&D/Персонажи/Отчайние - на доработке/Охотник.md",
+    "My_Obsidian/личное/D&D/Персонажи/Отчайние - на доработке/кузнец.md",
+    "My_Obsidian/личное/D&D/Персонажи/Преподаватели в академии - нужно доработать/Фернанд.md",
+    "My_Obsidian/личное/D&D/Персонажи/Преподаватели в академии - нужно доработать/Эльфа.md",
+    "My_Obsidian/личное/D&D/Персонажи/Преподаватели в академии - нужно доработать/Мартинас.md",
+    "My_Obsidian/личное/D&D/Персонажи/Преподаватели в академии - нужно доработать/Хайс.md",
+    "My_Obsidian/личное/D&D/Персонажи/Преподаватели в академии - нужно доработать/Гроувель.md",
+    "My_Obsidian/личное/D&D/Персонажи/Преподаватели в академии - нужно доработать/Биатрис.md",
+    "My_Obsidian/личное/D&D/Персонажи/Преподаватели в академии - нужно доработать/Ксайракс.md",
+    "My_Obsidian/личное/D&D/локации - востановлено,но нужно улучшить/Сапин/Ксайрен/Студены",
+    "My_Obsidian/личное/D&D/локации - востановлено,но нужно улучшить/Сапин/Ксайрен",
+    "My_Obsidian/личное/D&D/Персонажи/Отчайние - на доработке/Берсерк.md",
+    "My_Obsidian/личное/D&D/Персонажи/Фенри(Люди-короли) - востановлен/Алиса.md",
+    "My_Obsidian/личное/D&D/Персонажи/Внешние боги - востановлен/Перун - Громовой Кузнец.md",
+    "My_Obsidian/личное/D&D/Персонажи/Внешние боги - востановлен/Тескатлипока-Дымящееся Зеркало.md",
+    "My_Obsidian/личное/D&D/Персонажи/Внешние боги - востановлен/Самаэль-Яд Бога.md",
+    "My_Obsidian/личное/D&D/Персонажи/Внешние боги - востановлен/Осирис -Судья Мёртвых.md",
+    "My_Obsidian/личное/D&D/Персонажи/Внешние боги - востановлен/Иштар -Павшая Звезда.md",
+    "My_Obsidian/личное/D&D/Персонажи/Внешние боги - востановлен/Кали-Чёрная Мать Разрушения.md",
+    "My_Obsidian/личное/D&D/Персонажи/Сфера",
+    "Начало.canvas",
+    "obsidian_rep/Клоун/Полуянович/Билеты_ЭМиЭП_2025.pdf",
+    "My_Obsidian/личное/MineCraft",
+    "obsidian_rep/Клоун/Лазарев/3 КУРС/апрель",
+    "Excalidraw",
+    "My_Obsidian/личное/ДНД_ИРЛ/Мои персонажи — Long Story Short.json",
+    "obsidian_rep/Клоун/Main/Latex Mathematic Symbols.pdf",
+    "obsidian_rep/Клоун/Лазарев/3 КУРС/Март",
+    "obsidian_rep/Клоун/МДК01.01/Untitled.canvas",
+    "obsidian_rep/Клоун/МДК01.01/Структурная.canvas",
+    "obsidian_rep/Фантом/ОАУ/Изображения/Untitled.canvas",
+    "obsidian_rep/Фантом/ОАУ/Изображения/Untitled 1.canvas",
+    "obsidian_rep/Клоун/МДК02.01/Мальков/Untitled.canvas",
+    "obsidian_rep/Клоун/МДК02.01/Горемыкин Е.В/Структурная схема основого электро оборудования studica(VMX-pi).canvas"
+  ]
+}
